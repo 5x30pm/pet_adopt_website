@@ -9,7 +9,7 @@ It allows users to browse pets available for adoption and understand the adoptio
 
 ## 🌐 Live Demo
 
-👉 https://simple-pet-adoption.netlify.app/
+👉 https://5x30pm.github.io/pet_adopt_website/
 
 ---
 
