@@ -28,12 +28,16 @@ span{
   justify-content:space-around;
   flex-wrap:wrap;
 }
+
+/*
+    Main cards
+*/
 .card{
   width:450px;
   line-height: 25px;
   background-color: aliceblue;
   border:2px solid black;
-  border-radius:5%;
+  border-radius:20px;
   padding:10px;
   margin:20px;
   display:flex;
@@ -46,11 +50,23 @@ span{
   box-shadow:8px 8px 12px black;
   transform:scale(1.05);
 }
+
+
+/*
+        image Section(border and radius; 
+*/
 img{
   height:225px;
   width:100%;
   border-radius: 20px;
 }
+
+
+/*
+          footer Section Design
+
+*/
+
 
 h4{
   font-size:30px;
